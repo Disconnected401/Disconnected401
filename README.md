@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=4C1F97&center=true&vCenter=true&random=true&width=640&height=360&lines=Disconnected401" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=10000&pause=2500&color=717171&center=true&vCenter=true&random=true&width=640&height=100&lines=Disconnected401" alt="Nickname" />
 </p>
 
 
